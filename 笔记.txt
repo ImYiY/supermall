@@ -1,0 +1,14 @@
+使用git管理项目
+
+新项目的创建流程：
+1、划分目录结构
+
+2、引入css文件
+    normalize.css: 将所有的css格式统一
+
+3、配置vue.config.js 和 .editorconfig
+    vue.config.js: 配置路径别名
+    .editorconfig: 配置项目开发代码规范
+4、项目的模块划分：
+  配置：tabbar -> 路由
+
